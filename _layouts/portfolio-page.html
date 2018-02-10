@@ -1,1 +1,22 @@
-dsfsfds
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body>
+    
+    <div class="page-container">
+        {% include header.html %}
+        <main>
+            {{ content }}
+        </main>
+    </div>
+    
+    {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/assets/js/vendor/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/vendor/semantic.min.js"></script>
+    <script type="{{ site.baseurl }}/assets/js/main.js"></script>
+</body>
+
+</html>
