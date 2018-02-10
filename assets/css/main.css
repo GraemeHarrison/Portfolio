@@ -16,19 +16,15 @@ html, body {
     height: 100%;
 }
 
-/* img, video, iframe {
-    max-width: 100%;
-} */
-
-video, iframe {
+img, video, iframe {
     max-width: 100%;
 }
 
-img {
+.center-img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 100%;
 }
 
 /* header */
