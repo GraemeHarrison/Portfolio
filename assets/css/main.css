@@ -16,8 +16,19 @@ html, body {
     height: 100%;
 }
 
-img, video, iframe {
+/* img, video, iframe {
     max-width: 100%;
+} */
+
+video, iframe {
+    max-width: 100%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
 
 /* header */
