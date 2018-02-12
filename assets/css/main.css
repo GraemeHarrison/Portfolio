@@ -14,6 +14,7 @@
 
 html, body {
     height: 100%;
+    max-width: 600px; 
 }
 
 img, video, iframe {
