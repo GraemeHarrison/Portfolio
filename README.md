@@ -3,4 +3,4 @@
 ## Graphic Design Portfolio
 Website: [graemeharrison.com](https://www.graemeharrison.com)
 
-Based on https://github.com/abhn/Wall-E
+Based on template from https://github.com/abhn/Wall-E
