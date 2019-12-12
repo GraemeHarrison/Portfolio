@@ -5,6 +5,6 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /Portfolio
+baseurl: "/portfolio"
 plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
