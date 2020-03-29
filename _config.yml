@@ -5,6 +5,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: ''
+# baseurl: ''
+url: "https://graemeharrison.com"
 plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
